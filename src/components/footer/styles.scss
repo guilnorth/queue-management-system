@@ -1,0 +1,33 @@
+.app-footer {
+	background-color: #005cb2;
+	//height: 10%;
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+
+	.container {
+		margin: 26px;
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+		align-items: center;
+
+		.hour-container {
+			display: flex;
+			flex-direction: row;
+			align-items: center;
+
+			.hour {
+				color: #fff;
+				margin-left: 15px;
+				font-size: 2em;
+			}
+		}
+		.logo {
+			font-size: 2em;
+			color: #fff;
+		}
+	}
+}
