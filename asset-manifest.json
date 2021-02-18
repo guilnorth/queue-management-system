@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/queue-management-system/static/css/main.23a9a149.chunk.css",
+    "main.js": "/queue-management-system/static/js/main.67f8d459.chunk.js",
+    "main.js.map": "/queue-management-system/static/js/main.67f8d459.chunk.js.map",
+    "runtime-main.js": "/queue-management-system/static/js/runtime-main.58c27c98.js",
+    "runtime-main.js.map": "/queue-management-system/static/js/runtime-main.58c27c98.js.map",
+    "static/js/2.b1e91bbd.chunk.js": "/queue-management-system/static/js/2.b1e91bbd.chunk.js",
+    "static/js/2.b1e91bbd.chunk.js.map": "/queue-management-system/static/js/2.b1e91bbd.chunk.js.map",
+    "static/js/3.f2bd207d.chunk.js": "/queue-management-system/static/js/3.f2bd207d.chunk.js",
+    "static/js/3.f2bd207d.chunk.js.map": "/queue-management-system/static/js/3.f2bd207d.chunk.js.map",
+    "index.html": "/queue-management-system/index.html",
+    "static/css/main.23a9a149.chunk.css.map": "/queue-management-system/static/css/main.23a9a149.chunk.css.map",
+    "static/js/2.b1e91bbd.chunk.js.LICENSE.txt": "/queue-management-system/static/js/2.b1e91bbd.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/queue-management-system/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58c27c98.js",
+    "static/js/2.b1e91bbd.chunk.js",
+    "static/css/main.23a9a149.chunk.css",
+    "static/js/main.67f8d459.chunk.js"
+  ]
+}
